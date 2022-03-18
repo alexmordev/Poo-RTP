@@ -4,3 +4,9 @@
  * git branch  => listar ramas.
  * git status => estatus de la rama actual.
 */
+/**
+ * Abstraccion
+ * Encapsulamiento
+ * Herencia
+ * Polimorfismo
+ */
